@@ -6,6 +6,7 @@ from random import randint
 
 client = ModbusClient(host="192.168.1.25", port=12345)
 client.open()
+print("Macchinario sega a nastro avviato...")
 
 lubrificante = 100
 
