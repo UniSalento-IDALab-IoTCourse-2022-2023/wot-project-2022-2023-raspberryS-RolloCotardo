@@ -45,4 +45,3 @@ Per far funzionare il seguente codice è sufficiente:
 ```
 python mainSega.py
 ```
-Si tiene presente che il server si avvierà solo se il broker Mosquitto è avviato e i container con l'applicazione Spring e il Mongo sono up
